@@ -1,0 +1,11 @@
+org/jbpm/process/workitem/test/TemplateManager.class
+org/jbpm/process/workitem/test/EmailNotificationPublisher.class
+org/jbpm/process/workitem/test/Connection.class
+org/jbpm/process/workitem/test/Message.class
+org/jbpm/process/workitem/test/TemplateManager$TemplateDirectoryWatcher.class
+org/jbpm/process/workitem/test/EmailWorkItemHandler.class
+org/jbpm/process/workitem/test/Email.class
+org/jbpm/process/workitem/test/Recipients.class
+org/jbpm/process/workitem/test/Recipient.class
+org/jbpm/process/workitem/test/SendHtml.class
+org/jbpm/process/workitem/test/SendHtml$Authenticator.class
